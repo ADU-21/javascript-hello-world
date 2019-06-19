@@ -1,4 +1,4 @@
-# JavaScript study
+# Learning JavaScript
 
 # Notes
 * JavaScript 是由时间驱动执行的单线程模型。
